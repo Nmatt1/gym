@@ -1,0 +1,10 @@
+\\li-studenthd-01\student home drives$\active\30055148\My Documents\Visual Studio 2015\Projects\Gym\Gym\bin\Debug\Gym.exe.config
+\\li-studenthd-01\student home drives$\active\30055148\My Documents\Visual Studio 2015\Projects\Gym\Gym\bin\Debug\Gym.exe
+\\li-studenthd-01\student home drives$\active\30055148\My Documents\Visual Studio 2015\Projects\Gym\Gym\bin\Debug\Gym.pdb
+\\li-studenthd-01\student home drives$\active\30055148\My Documents\Visual Studio 2015\Projects\Gym\Gym\obj\Debug\Gym.csprojAssemblyReference.cache
+\\li-studenthd-01\student home drives$\active\30055148\My Documents\Visual Studio 2015\Projects\Gym\Gym\obj\Debug\Gym.Form1.resources
+\\li-studenthd-01\student home drives$\active\30055148\My Documents\Visual Studio 2015\Projects\Gym\Gym\obj\Debug\Gym.Properties.Resources.resources
+\\li-studenthd-01\student home drives$\active\30055148\My Documents\Visual Studio 2015\Projects\Gym\Gym\obj\Debug\Gym.csproj.GenerateResource.cache
+\\li-studenthd-01\student home drives$\active\30055148\My Documents\Visual Studio 2015\Projects\Gym\Gym\obj\Debug\Gym.exe
+\\li-studenthd-01\student home drives$\active\30055148\My Documents\Visual Studio 2015\Projects\Gym\Gym\obj\Debug\Gym.pdb
+\\li-studenthd-01\student home drives$\active\30055148\My Documents\Visual Studio 2015\Projects\Gym\Gym\obj\Debug\Gym.T2.resources
